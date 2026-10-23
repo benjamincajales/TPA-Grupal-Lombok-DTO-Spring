@@ -3,6 +3,14 @@
 Proyecto desarrollado para el Trabajo Práctico Universitario utilizando **Spring Boot 3**, **Spring Data JPA**, **PostgreSQL**, **Lombok** e **iText 7**.
 
 ---
+## Miembros:
+
+- Exequiel Castro
+- Agustina Piriz
+- Genaro Senatore
+- Benjamin Cajales
+- Lautaro Ojeda
+---
 
 ## 🚀 Tecnologías Utilizadas
 
